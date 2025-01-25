@@ -91,7 +91,7 @@ def six():
     led_right_top.off()
     led_right_bottom.on()
     led_bottom.on()
-    led_middle.off()
+    led_middle.on()
     led_left_top.on()
     led_left_bottom.on()
 
