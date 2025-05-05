@@ -1,0 +1,5 @@
+- MCU  (stm32Gxxxxxx)
+- STM32G nucleo board
+- Hall sensors
+- Transistors
+- capacitors for MCU
